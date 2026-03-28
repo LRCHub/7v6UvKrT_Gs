@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "MUSICA",
+  "base_artist": "きんとき",
+  "createdAt": "2026-03-28T16:39:35.153300Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La Musica",
+      "artist": "Munk",
+      "has_synced": false,
+      "path": "select/01_La_Musica_Munk.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lezione Di Musica",
+      "artist": "Hayley Westenra feat. Ennio Morricone",
+      "has_synced": false,
+      "path": "select/02_Lezione_Di_Musica_Hayley_Westenra_feat._Ennio_Morricone.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lezione Di Musica",
+      "artist": "Hayley Westenra - Ennio Morricone",
+      "has_synced": false,
+      "path": "select/03_Lezione_Di_Musica_Hayley_Westenra_-_Ennio_Morricone.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La musica electronica",
+      "artist": "Righeira",
+      "has_synced": true,
+      "path": "select/04_La_musica_electronica_Righeira.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gracias por la Música",
+      "artist": "ABBA",
+      "has_synced": false,
+      "path": "select/05_Gracias_por_la_Música_ABBA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Statement zur Lage der Musica",
+      "artist": "Haggard",
+      "has_synced": false,
+      "path": "select/06_Statement_zur_Lage_der_Musica_Haggard.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Napoli 55 È 'A Musica",
+      "artist": "Edoardo Bennato",
+      "has_synced": true,
+      "path": "select/07_A_Napoli_55_È_'A_Musica_Edoardo_Bennato.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baila Solo Con Tu Musica",
+      "artist": "Eros Ramazzotti",
+      "has_synced": true,
+      "path": "select/08_Baila_Solo_Con_Tu_Musica_Eros_Ramazzotti.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Balla Solo La Tua Musica",
+      "artist": "Eros Ramazzotti",
+      "has_synced": true,
+      "path": "select/09_Balla_Solo_La_Tua_Musica_Eros_Ramazzotti.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Buenos Aires - Live Musica Leggera",
+      "artist": "Francesco De Gregori",
+      "has_synced": true,
+      "path": "select/10_Buenos_Aires_-_Live_Musica_Leggera_Francesco_De_Gregori.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Caterina - Live Musica Leggera",
+      "artist": "Francesco De Gregori",
+      "has_synced": false,
+      "path": "select/11_Caterina_-_Live_Musica_Leggera_Francesco_De_Gregori.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cercando un altro Egitto - Live Musica Leggera",
+      "artist": "Francesco De Gregori",
+      "has_synced": false,
+      "path": "select/12_Cercando_un_altro_Egitto_-_Live_Musica_Leggera_Francesco_De_Gregori.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chi Se Ne Frega Della Musica",
+      "artist": "Caparezza",
+      "has_synced": true,
+      "path": "select/13_Chi_Se_Ne_Frega_Della_Musica_Caparezza.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ciao ciao - Live Musica Leggera",
+      "artist": "Francesco De Gregori",
+      "has_synced": true,
+      "path": "select/14_Ciao_ciao_-_Live_Musica_Leggera_Francesco_De_Gregori.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cose - Live Musica Leggera",
+      "artist": "Francesco De Gregori",
+      "has_synced": true,
+      "path": "select/15_Cose_-_Live_Musica_Leggera_Francesco_De_Gregori.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Donde Hay Música",
+      "artist": "Eros Ramazzotti",
+      "has_synced": true,
+      "path": "select/16_Donde_Hay_Música_Eros_Ramazzotti.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MUSICA",
+      "artist": "きんとき",
+      "has_synced": false,
+      "path": "select/pl_01_MUSICA_きんとき.txt"
+    }
+  ]
+}
